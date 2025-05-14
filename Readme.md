@@ -1,7 +1,7 @@
 
 # Bitcoin Technical Analysis Tool
 
-This project uses Python along with the [yfinance](https://github.com/ranaroussi/yfinance) package to download Bitcoin (BTC-USD) historical and real-time data. It then applies technical indicators using the [ta](https://github.com/bukosabino/ta) library.
+This project uses Python along with the yfinance package to download Bitcoin (BTC-USD) historical and real-time data. It then applies technical indicators using the ta library.
 
 ## Features
 
